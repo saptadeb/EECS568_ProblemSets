@@ -1,4 +1,7 @@
 # EECS568_ProblemSets
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/0d97f13d14be42ec9f722e53d9504d6b)](https://www.codacy.com/gh/saptadeb/EECS568_ProblemSets/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=saptadeb/EECS568_ProblemSets&amp;utm_campaign=Badge_Grade)
+
 ## Problem Set 1
 1. Probability Basics
 2. Bayes Filter
